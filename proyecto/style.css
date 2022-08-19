@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+    margin-top: 50px;
+}html h1,p{
+    color: rgb(0, 0, 0);
+}img{
+    padding-top: 110px;
+    padding-right: 1020px ;
+}

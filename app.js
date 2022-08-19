@@ -1,3 +1,2 @@
-console.log("hola mundo")
-console.log("sss")
-
+let edad = 25;
+console.log("tu edad es"+ edad);
